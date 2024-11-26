@@ -1,0 +1,6 @@
+@ASPNETCAPI_HostAddress = http://localhost:5217
+
+GET {{ASPNETCAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
